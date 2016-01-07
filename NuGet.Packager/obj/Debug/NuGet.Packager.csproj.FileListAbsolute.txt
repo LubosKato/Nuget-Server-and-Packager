@@ -1,0 +1,5 @@
+d:\Dropbox\CV\8\code Willis\nuget server\NuGet.Packager\bin\Debug\NuGet.Packager.dll
+d:\Dropbox\CV\8\code Willis\nuget server\NuGet.Packager\bin\Debug\NuGet.Packager.pdb
+d:\Dropbox\CV\8\code Willis\nuget server\NuGet.Packager\obj\Debug\NuGet.Packager.csprojResolveAssemblyReference.cache
+d:\Dropbox\CV\8\code Willis\nuget server\NuGet.Packager\obj\Debug\NuGet.Packager.dll
+d:\Dropbox\CV\8\code Willis\nuget server\NuGet.Packager\obj\Debug\NuGet.Packager.pdb

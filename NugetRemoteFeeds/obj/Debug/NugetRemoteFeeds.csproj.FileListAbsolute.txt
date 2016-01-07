@@ -1,0 +1,16 @@
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\NugetRemoteFeeds.dll.config
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\NugetRemoteFeeds.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\NugetRemoteFeeds.pdb
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\Elmah.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\Microsoft.Web.XmlTransform.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\Ninject.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\NuGet.Core.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\NuGet.Server.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\RouteMagic.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\WebActivatorEx.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\Ninject.pdb
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\bin\Ninject.xml
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\obj\Debug\NugetRemoteFeeds.csprojResolveAssemblyReference.cache
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\obj\Debug\NugetRemoteFeeds.dll
+D:\Dropbox\CV\8\code Willis\nuget server\NugetRemoteFeeds\obj\Debug\NugetRemoteFeeds.pdb
